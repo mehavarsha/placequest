@@ -1,0 +1,6 @@
+{
+  "name": "PlaceQuest - Gamified Placement Mastery Hub",
+  "description": "Gamified placement preparation platform with skill tree unlocks, AI speaking coach, algorithm visualizers, smart resume studio, and self-evaluation radar.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
